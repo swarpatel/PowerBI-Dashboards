@@ -1,6 +1,6 @@
-## PowerBI Dashboards
+# PowerBI Dashboards
 
-### Sales Dashboard
+## Sales Dashboard
 
 ![png](img/SalesDashboard.png)
 
@@ -12,7 +12,7 @@ Additionally, it provides detailed insights into the performance of individual s
 Overall, this dashboard serves as a valuable tool for understanding sales trends, identifying key revenue sources, and evaluating the performance of different sales channels and supervisors.
 
 
-### Healthcare dashboard
+## Healthcare dashboard
 
 ![png](img/HealthcareDashboard1.png)
 ![png](img/HealthcareDashboard2.png)
@@ -31,7 +31,7 @@ The dashboard is divided into several sections:
 The dashboard utilizes interactive elements and filters, allowing users to drill down into specific data points and view detailed information based on selected criteria. This facilitates a deeper analysis and understanding of the patient wait times and their distribution across various categories.
 
 
-### Covid 19 dashboard
+## Covid 19 dashboard
 
 ![png](img/Covid19Dashboard.png)
 
@@ -46,7 +46,7 @@ The dashboard also features visual representations of:
 These visual tools help in understanding the pandemic's progression over time and the geographical differences in its impact. The overall design ensures that users can easily grasp the scale of the pandemic and the effectiveness of various measures taken globally.
 
 
-### Executive financial dashboard
+## Executive financial dashboard
 
 ![png](img/ExecutiveFinancialReport.png)
 
@@ -57,7 +57,7 @@ Additionally, the report details sales performance by product and segment, enabl
 Overall, the dashboard serves as a comprehensive tool for analyzing financial health and identifying significant trends and patterns in both profit and sales metrics.
 
 
-### Bank Churn Rate Dashboard
+## Bank Churn Rate Dashboard
 
 ![png](img/BankChurnRateDashboard.png)
 

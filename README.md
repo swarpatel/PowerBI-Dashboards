@@ -14,8 +14,8 @@ Overall, this dashboard serves as a valuable tool for understanding sales trends
 
 ### Healthcare dashboard
 
-![png](HealthcareDashboard1.png)
-![png](HealthcareDashboard2.png)
+![png](img/HealthcareDashboard1.png)
+![png](img/HealthcareDashboard2.png)
 
 The healthcare dashboard provides a comprehensive view of patient wait lists, focusing on several key indicators and trends. It is designed to give stakeholders a clear understanding of the current state of patient wait times, comparing the latest month's data with previous periods.
 
